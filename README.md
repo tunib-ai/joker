@@ -71,7 +71,7 @@ If you apply this library to any project and research, please cite our code:
 @misc{llama-3-joker
   author       = {Kim, Soohwan and Park, Kyubyong},
   title        = {LLaMA-3 Joker},
-  howpublished = {\url{https://github.com/tunib-ai/llama-3-joker}},
+  howpublished = {\url{https://github.com/tunib-ai/joker}},
   year         = {2024}
 }
 ```
