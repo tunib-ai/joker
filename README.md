@@ -77,7 +77,7 @@ If you apply this library to any project and research, please cite our code:
 ```
   
 ## Contact
-For any inquiries or issues, please contact us at contact@tunib.ai
+For any inquiries or issues, please contact us at tunibridge@tunib.ai
   
 ## License
   
