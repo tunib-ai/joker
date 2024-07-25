@@ -5,9 +5,7 @@
 
 
 <p align="center">
-  <a href="https://huggingface.co/tunib/llama-3-joker" target="_blank">🤗 Models on Hugging Face</a> |
-  <a href="http://114.110.134.81:7860/" target="_blank">Demo</a> |
-  <a href="LICENSE" target="_blank">License LLaMA-3</a>
+  <a href="http://114.110.134.81:7860/" target="_blank">Demo</a>
 
 </div>
   
@@ -78,10 +76,6 @@ If you apply this library to any project and research, please cite our code:
   
 ## Contact
 For any inquiries or issues, please contact us at tunibridge@tunib.ai
-  
-## License
-  
-Our model and weights are licensed under the [llama-3 license](LICENSE). For more details, refer to the LICENSE file included in the repository.
   
 ## Acknowledgements
 
